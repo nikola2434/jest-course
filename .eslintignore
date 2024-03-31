@@ -1,0 +1,22 @@
+# ignore Eclipse build folders
+/Debug
+/Release
+/Test-Debug
+/Test-Release
+
+# ignore Eclipse settings folder
+/.settings
+
+# ignore VS settings folder
+/.vs
+/.vscode
+
+# ignore Idea settings folder
+/.idea
+
+# ignore tool_deploy build folder
+/dt-build
+
+/node_modules
+/build
+/backend

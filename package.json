@@ -13,8 +13,6 @@
     "@svgr/webpack": "^8.1.0",
     "@types/html-webpack-plugin": "^3.2.9",
     "@types/jest": "^29.5.12",
-    "@types/mime": "^4.0.0",
-    "@types/mime-types": "^2.1.4",
     "@types/node": "^20.9.1",
     "@types/react": "^18.2.37",
     "@types/react-dom": "^18.2.15",

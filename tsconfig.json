@@ -11,7 +11,8 @@
     "allowSyntheticDefaultImports": true,
     "baseUrl": ".",
     "paths": {},
-    "plugins": [{ "name": "typescript-plugin-css-modules" }]
+    "plugins": [{ "name": "typescript-plugin-css-modules" }],
+    "types": ["jest", "node"]
   },
   "ts-node": {
     "compilerOptions": {
